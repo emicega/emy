@@ -3,48 +3,60 @@
 			"Teatro": "Teatro Capitol",
 			"Sector": "Centro de Quito",
 			"Latitud": -0.2156294,
-			"Longitud": -78.5037074
+			"Longitud": -78.5037074,
+			"Imagen": "https://www.openprocessing.org/sketch/421423/files/fileimagen1.png"
 		},
 		{
 			"Teatro": "Casa Toledo",
 			"Sector": "Norte de Quito",
 			"Latitud":-0.2051746,
-			"Longitud": -78.4842335
+			"Longitud": -78.4842335,
+			"Imagen": "https://www.openprocessing.org/sketch/421423/files/fileimagen2.png"
+
 			
 		},
 		{
 			"Teatro": "Teatro Bolívar",
 			"Sector": "Centro de Quito",
 			"Latitud": -0.2214964,
-			"Longitud": -78.5132195
+			"Longitud": -78.5132195,
+			"Imagen": "https://www.openprocessing.org/sketch/421423/files/fileimagen3.jpg"
+
 		
 		},
 		{
 			"Teatro": "El Telón de Aquiles",
 			"Sector": "Tumbaco",
 			"Latitud": -0.2115467,
-			"Longitud": -78.4179717
+			"Longitud": -78.4179717,
+   			"Imagen": "https://www.openprocessing.org/sketch/421423/files/fileimagen4.jpg"
+
 			
 		},
 		{
 			"Teatro": "Estudio de Actores",
 			"Sector": "Centro de Quito",
 			"Latitud": -0.216827,
-			"Longitud": -78.5133947
-			
+			"Longitud": -78.5133947,
+  			"Imagen": "https://www.openprocessing.org/sketch/421423/files/fileimagen5.jpg"
+	
 		},
 		{
 			"Teatro": "Piccolo Teatro",
 			"Sector": "Cumbayá",
 			"Latitud": -0.2014163,
-			"Longitud": -78.4324286
+			"Longitud": -78.4324286,
+			"Imagen": "https://www.openprocessing.org/sketch/421423/files/fileimagen6.png"
+
 			
 		},
 		{
 			"Teatro": "Yaku Teatro",
 			"Sector": "Centro de Quito",
 			"Latitud": -0.2251683,
-			"Longitud": -78.5157766
+			"Longitud": -78.5157766,
+			"Imagen": "https://www.openprocessing.org/sketch/421423/files/fileimagen7.png"
+
 			
 
 		},
@@ -52,49 +64,61 @@
 			"Teatro": "Bakkus Teatrum Art Café",
 			"Sector": "Norte de Quito",
 			"Latitud": -0.195748,
-			"Longitud": -78.5103947
+			"Longitud": -78.5103947,
+			"Imagen": "https://www.openprocessing.org/sketch/421423/files/fileimagen8.jpg"
+
 			
 		},
 		{
 			"Teatro": "Parapluie",
 			"Sector": "Norte de Quito",
 			"Latitud": -0.2061081,
-			"Longitud": -78.4873786
+			"Longitud": -78.4873786,
+			"Imagen": "https://www.openprocessing.org/sketch/421423/files/fileimagen9.jpg"
+
 			
 		},
 		{
 			"Teatro": "Teatro Aya Hatariy",
 			"Sector": "Norte de Quito",
 			"Latitud": -0.0896377,
-			"Longitud": -78.4708344
-			
+			"Longitud": -78.4708344,
+		        "Imagen": "https://www.openprocessing.org/sketch/421423/files/fileimagen10.jpg"
+
 		},
 		{
 			"Teatro": "Fundación Casa de la Danza",
 			"Sector": "Centro de Quito",
 			"Latitud": -0.2245987,
-			"Longitud": -78.5104727
+			"Longitud": -78.5104727,
+		        "Imagen": "https://www.openprocessing.org/sketch/421423/files/fileimagen11.jpg"
+
 			
 		},
 		{
 			"Teatro": "Casa Malayerba",
 			"Sector": "Centro de Quito",
 			"Latitud": -0.2099556,
-			"Longitud": -78.4976316
+			"Longitud": -78.4976316,
+		        "Imagen": "https://www.openprocessing.org/sketch/421423/files/fileimagen12.jpg"
+
 			
 		},
 		{
 			"Teatro": "La Butaca",
 			"Sector": "Norte de Quito",
 			"Latitud": -0.2089463,
-			"Longitud": -78.4875807
+			"Longitud": -78.4875807,
+		        "Imagen": "https://www.openprocessing.org/sketch/421423/files/fileimagen13.png"
+
 			
 		},
 		{
 			"Teatro": "Teatro Fama",
 			"Sector": "Norte de Quito",
 			"Latitud": -0.1758973,
-			"Longitud": -78.4950651
+			"Longitud": -78.4950651,
+		        "Imagen": "https://www.openprocessing.org/sketch/421423/files/fileimagen14.jpg"
 			
 
 		},
@@ -102,49 +126,62 @@
 			"Teatro": "Teatro Compañía Nacional de Danza",
 			"Sector": "Norte de Quito",
 			"Latitud": -0.1629364,
-			"Longitud": -78.4791147
+			"Longitud": -78.4791147,
+		        "Imagen": "https://www.openprocessing.org/sketch/421423/files/fileimagen15.jpg"
+
 			
 		},
 		{
 			"Teatro": "Teatro Ochoymedio",
 			"Sector": "Norte de Quito",
 			"Latitud": -0.2075677,
-			"Longitud": -78.4858819
+			"Longitud": -78.4858819,
+		        "Imagen": "https://www.openprocessing.org/sketch/421423/files/fileimagen16.jpg"
+
 			
 		},
 		{
 			"Teatro": "Centro Cultural Mama Cuchara",
 			"Sector": "Centro de Quito",
 			"Latitud": -0.2288245,
-			"Longitud": -78.5110584
+			"Longitud": -78.5110584,
+		        "Imagen": "https://www.openprocessing.org/sketch/421423/files/fileimagen17.jpg"
+
 			
 		},
 		{
 			"Teatro": "Teatro Mundo Juvenil",
 			"Sector": "Norte de Quito",
 			"Latitud": -0.1862586,
-			"Longitud": -78.4852398
+			"Longitud": -78.4852398,
+		        "Imagen": "https://www.openprocessing.org/sketch/421423/files/fileimagen18.jpg"
+
 			
 		},
 		{
 			"Teatro": "Teatro Casa Blanca-USFQ",
 			"Sector": "Cumbayá",
 			"Latitud": -0.19689,
-			"Longitud": -78.437933
+			"Longitud": -78.437933,
+		        "Imagen": "https://www.openprocessing.org/sketch/421423/files/fileimagen21.png"
+
 			
 		},
 		{
 			"Teatro": "Casa de la Música",
 			"Sector": "Norte de Quito",
 			"Latitud": -0.181301,
-			"Longitud": -78.5032927
+			"Longitud": -78.5032927,
+			"Imagen": "https://www.openprocessing.org/sketch/421423/files/fileimagen22.jpg"
 			
 		},
 		{
 			"Teatro": "Teatro Nacional Sucre",
 			"Sector": "Centro de Quito",
 			"Latitud": -0.2191411,
-			"Longitud": -78.5110772
+			"Longitud": -78.5110772,
+			"Imagen": "https://www.openprocessing.org/sketch/421423/files/fileimagen23.jpg"
+
 			
 		
 		},
@@ -152,15 +189,16 @@
 			"Teatro": "Teatro Casa de la Cultura",
 			"Sector": "Centro de Quito",
 			"Latitud": -0.2099045,
-			"Longitud": -78.4976276
-			
-		
+			"Longitud": -78.4976276,
+			"Imagen": "https://www.openprocessing.org/sketch/421423/files/fileimagen25.jpg"
+				
 		},
 		{
 			"Teatro": "Teatro México",
 			"Sector": "Sur de Quito",
 			"Latitud": -0.2399671,
-			"Longitud": -78.5186573
+			"Longitud": -78.5186573,
+			"Imagen": "https://www.openprocessing.org/sketch/421423/files/fileimagen24.jpg"
 			
 		
 		},
@@ -168,7 +206,8 @@
 			"Teatro": "Patio de Comedias",
 			"Sector": "Norte de Quito",
 			"Latitud": -0.2069266,
-			"Longitud": -78.4993588
+			"Longitud": -78.4993588,
+   			"Imagen": "https://www.openprocessing.org/sketch/421423/files/fileimagen19.jpg"
 			
 		},
 
@@ -176,7 +215,8 @@
 			"Teatro": "Plaza del Teatro",
 			"Sector": "Centro de Quito",
 			"Latitud": -0.2188825,
-			"Longitud": -78.5108137
+			"Longitud": -78.5108137,
+			"Imagen": "https://www.openprocessing.org/sketch/421423/files/fileimagen20.jpg"
 			
 		}
 
